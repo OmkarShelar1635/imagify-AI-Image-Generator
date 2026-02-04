@@ -37,8 +37,8 @@ The project is built with a React frontend and a Node.js + Express backend, inte
 ## 📂 Project Structure
 
 imagify/
-├ client/ # client
-└ server/ # server
+├ client/ # Frontend
+└ server/ # Backend
 
 ---
 
