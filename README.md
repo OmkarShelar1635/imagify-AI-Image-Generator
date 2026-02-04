@@ -56,7 +56,7 @@ RAZORPAY_KEY_SECRET = 'YOUR_KEY_SECRET'|
 STRIPE_SECRET_KEY = "YOUR_SECRET_KEY"
 
 client/.env :
-VITE_BACKEND_URL = 'http://localhost:4000'|
+VITE_BACKEND_URL = 'http://localhost:4000' |
 VITE_RAZORPAY_KEY_ID = "YOUR_KEY_ID"
 
 ## ▶ Run Locally
