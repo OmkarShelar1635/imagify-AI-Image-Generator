@@ -56,7 +56,7 @@ server/.env :
 7. STRIPE_SECRET_KEY = "YOUR_SECRET_KEY"
 
 client/.env :
-1. VITE_BACKEND_URL = 'http://localhost:4000' 
+1. VITE_BACKEND_URL = 'YOUR_BACKEND_URL' 
 2. VITE_RAZORPAY_KEY_ID = "YOUR_KEY_ID"
 
 ## ▶ Run Locally
