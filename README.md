@@ -47,28 +47,28 @@ imagify/
 This project uses **two `.env` files** (not pushed to GitHub):
 
 server/.env : 
-JWT_SECRET = "YOUR_SECRET"|
-MONGODB_URI = 'YOUR_MONGODB_URL'|
-CLIPDROP_API = 'YOUR_CLIPDROP_API'|
-CURRENCY ='INR'|
-RAZORPAY_KEY_ID = 'YOUR_KEY_ID'|
-RAZORPAY_KEY_SECRET = 'YOUR_KEY_SECRET'|
-STRIPE_SECRET_KEY = "YOUR_SECRET_KEY"
+1. JWT_SECRET = "YOUR_SECRET"
+2. MONGODB_URI = 'YOUR_MONGODB_URL'
+3. CLIPDROP_API = 'YOUR_CLIPDROP_API'
+4. CURRENCY ='INR'
+5. RAZORPAY_KEY_ID = 'YOUR_KEY_ID'
+6. RAZORPAY_KEY_SECRET = 'YOUR_KEY_SECRET'
+7. STRIPE_SECRET_KEY = "YOUR_SECRET_KEY"
 
 client/.env :
-VITE_BACKEND_URL = 'http://localhost:4000' |
-VITE_RAZORPAY_KEY_ID = "YOUR_KEY_ID"
+1. VITE_BACKEND_URL = 'http://localhost:4000' 
+2. VITE_RAZORPAY_KEY_ID = "YOUR_KEY_ID"
 
 ## ▶ Run Locally
 
 ### Server
 
-cd server |
-npm install |
-npm run server 
+1. cd server 
+2. npm install 
+3. npm run server 
 
 ### Client
 
-cd client |
-npm install |
-npm run dev 
+1. cd client 
+2. npm install 
+3. npm run dev 
