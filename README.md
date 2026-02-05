@@ -8,7 +8,7 @@ The project is built with a React frontend and a Node.js + Express backend, inte
 
 ## ✨ Features
 
-- 🔐 User authentication (Signup / Login)
+- 🔐 User authentication (Signup / Login) 
 - 🖼️ AI image generation from text prompts
 - ⭐ Credit-based image generation system
 - 📥 Download generated images
